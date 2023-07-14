@@ -1,3 +1,10 @@
+# 关于本仓库
+
+用于对 lodash 的 debounce 源码进行分析，详见 debounce.js 文件内的注释
+
+以下是原 readme
+
+
 # lodash
 
 [Site](https://lodash.com/) |
